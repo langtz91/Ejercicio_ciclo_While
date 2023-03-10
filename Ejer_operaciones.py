@@ -43,8 +43,3 @@ while opcion !=  5:
   print(f"El resultado de {operacion} es: {total}")
 
   opcion= int(input("Seleccione la opción deseada ingresando el número correspondiente: "))
-
-  
-
-
- 
