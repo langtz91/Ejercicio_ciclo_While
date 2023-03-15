@@ -7,6 +7,8 @@ def es_primo(a):
      contador_residuo_0 += 1
   if contador_residuo_0 == 2:
     return True
+  else:
+    return False
 
 inicio = int(input("Ingrese inicio del intervalo: "))
 fin = int(input("Ingrese fin del intervalo: ")) 
